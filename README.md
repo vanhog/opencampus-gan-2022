@@ -5,3 +5,5 @@ In its first parts, this work strongly relies on the [GAN-examples supplied by t
 
 The second part on using a Wasserstein-GAN with Gradient Penalty relies on Courseras GAN specialization and the work of team "testbild" during the opencampus-2021-course "Generative Adverserial Networks" on [heavy metall album covers](https://github.com/Testbild/GANMetalCover).
 
+![Title](title.png)
+
